@@ -2,15 +2,8 @@ import entities.Animal;
 import entities.SerVivo;
 import entities.Vegetal;
 
-import java.util.Locale;
 import java.util.Scanner;
 
-//Resolution of question 2:
-//2. Ser vivo (vale 2 pontos)
-//        Crie um programa que tenha uma classe SerVivo com um atributo respira, uma
-//        classe Vegetal cujo atributo respira retorna “CO2” e outra Animal cujo atributo
-//        respira retorna “O2” que herdem de SerVivo. Crie um método que receba um objeto
-//        SerVivo e retorne o valor do atributo respira.
 public class Main {
     public static void main(String[] args) {
 
